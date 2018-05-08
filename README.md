@@ -22,3 +22,4 @@ $ npm run generate
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 "# nuxt.js0508" 
 "# Nuxtjs0508" 
+"# Nuxtjs0508" 
