@@ -23,3 +23,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 "# nuxt.js0508" 
 "# Nuxtjs0508" 
 "# Nuxtjs0508" 
+"# Nuxt.js0508" 
